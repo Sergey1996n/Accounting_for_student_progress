@@ -1,0 +1,126 @@
+C:\Users\Sergey\source\repos\Accounting for student progress\bin\Debug\Accounting for student progress.exe.config
+C:\Users\Sergey\source\repos\Accounting for student progress\bin\Debug\Accounting for student progress.exe
+C:\Users\Sergey\source\repos\Accounting for student progress\bin\Debug\Accounting for student progress.pdb
+C:\Users\Sergey\source\repos\Accounting for student progress\obj\Debug\Accounting for student progress.csprojAssemblyReference.cache
+C:\Users\Sergey\source\repos\Accounting for student progress\obj\Debug\Accounting_for_student_progress.Properties.Resources.resources
+C:\Users\Sergey\source\repos\Accounting for student progress\obj\Debug\Accounting for student progress.csproj.GenerateResource.cache
+C:\Users\Sergey\source\repos\Accounting for student progress\obj\Debug\Accounting for student progress.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\Accounting for student progress\obj\Debug\Accounting for student progress.exe
+C:\Users\Sergey\source\repos\Accounting for student progress\obj\Debug\Accounting for student progress.pdb
+C:\Users\Sergey\source\repos\Accounting for student progress\bin\Debug\MySqlConnector.dll
+C:\Users\Sergey\source\repos\Accounting for student progress\bin\Debug\System.Buffers.dll
+C:\Users\Sergey\source\repos\Accounting for student progress\bin\Debug\System.Memory.dll
+C:\Users\Sergey\source\repos\Accounting for student progress\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Sergey\source\repos\Accounting for student progress\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sergey\source\repos\Accounting for student progress\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sergey\source\repos\Accounting for student progress\bin\Debug\MySqlConnector.xml
+C:\Users\Sergey\source\repos\Accounting for student progress\bin\Debug\System.Buffers.xml
+C:\Users\Sergey\source\repos\Accounting for student progress\bin\Debug\System.Memory.xml
+C:\Users\Sergey\source\repos\Accounting for student progress\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Sergey\source\repos\Accounting for student progress\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sergey\source\repos\Accounting for student progress\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Sergey\source\repos\Accounting for student progress\obj\Debug\Accounting for student progress.csproj.CopyComplete
+C:\Users\Sergey\source\repos\Accounting for student progress\obj\Debug\Accounting_for_student_progress.fMain.resources
+C:\Users\Sergey\source\repos\Accounting for student progress\obj\Debug\Accounting_for_student_progress.fStudent.resources
+C:\Users\Sergey\source\repos\Accounting for student progress\bin\Debug\Uspevaemost_studentov.mdb
+C:\Users\Sergey\source\repos\Accounting for student progress\obj\Debug\Accounting_for_student_progress.fSprStudyGroup.resources
+C:\Users\Sergey\source\repos\Accounting for student progress\obj\Debug\Accounting_for_student_progress.fSprSpecialty.resources
+C:\Users\Sergey\source\repos\Accounting for student progress\obj\Debug\Accounting_for_student_progress.fSprTeacher.resources
+C:\Users\Sergey\source\repos\Accounting for student progress\obj\Debug\Accounting_for_student_progress.fSprDiscipline.resources
+C:\Users\Sergey\source\repos\Accounting for student progress\obj\Debug\Accounting_for_student_progress.fAcademicPerformance.resources
+C:\Users\Sergey\Desktop\Accounting for student progress\bin\Debug\Uspevaemost_studentov.mdb
+C:\Users\Sergey\Desktop\Accounting for student progress\bin\Debug\Accounting for student progress.exe.config
+C:\Users\Sergey\Desktop\Accounting for student progress\bin\Debug\Accounting for student progress.exe
+C:\Users\Sergey\Desktop\Accounting for student progress\bin\Debug\Accounting for student progress.pdb
+C:\Users\Sergey\Desktop\Accounting for student progress\bin\Debug\MySqlConnector.dll
+C:\Users\Sergey\Desktop\Accounting for student progress\bin\Debug\System.Buffers.dll
+C:\Users\Sergey\Desktop\Accounting for student progress\bin\Debug\System.Memory.dll
+C:\Users\Sergey\Desktop\Accounting for student progress\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Sergey\Desktop\Accounting for student progress\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sergey\Desktop\Accounting for student progress\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sergey\Desktop\Accounting for student progress\bin\Debug\MySqlConnector.xml
+C:\Users\Sergey\Desktop\Accounting for student progress\bin\Debug\System.Buffers.xml
+C:\Users\Sergey\Desktop\Accounting for student progress\bin\Debug\System.Memory.xml
+C:\Users\Sergey\Desktop\Accounting for student progress\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Sergey\Desktop\Accounting for student progress\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sergey\Desktop\Accounting for student progress\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Sergey\Desktop\Accounting for student progress\obj\Debug\Accounting for student progress.csprojAssemblyReference.cache
+C:\Users\Sergey\Desktop\Accounting for student progress\obj\Debug\Accounting_for_student_progress.AboutBox1.resources
+C:\Users\Sergey\Desktop\Accounting for student progress\obj\Debug\Accounting_for_student_progress.fAcademicPerformance.resources
+C:\Users\Sergey\Desktop\Accounting for student progress\obj\Debug\Accounting_for_student_progress.fMain.resources
+C:\Users\Sergey\Desktop\Accounting for student progress\obj\Debug\Accounting_for_student_progress.fSprDiscipline.resources
+C:\Users\Sergey\Desktop\Accounting for student progress\obj\Debug\Accounting_for_student_progress.fSprSpecialty.resources
+C:\Users\Sergey\Desktop\Accounting for student progress\obj\Debug\Accounting_for_student_progress.fSprTeacher.resources
+C:\Users\Sergey\Desktop\Accounting for student progress\obj\Debug\Accounting_for_student_progress.fStudent.resources
+C:\Users\Sergey\Desktop\Accounting for student progress\obj\Debug\Accounting_for_student_progress.fSprStudyGroup.resources
+C:\Users\Sergey\Desktop\Accounting for student progress\obj\Debug\Accounting_for_student_progress.Properties.Resources.resources
+C:\Users\Sergey\Desktop\Accounting for student progress\obj\Debug\Accounting for student progress.csproj.GenerateResource.cache
+C:\Users\Sergey\Desktop\Accounting for student progress\obj\Debug\Accounting for student progress.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\Accounting for student progress\obj\Debug\Accounting for student progress.csproj.CopyComplete
+C:\Users\Sergey\Desktop\Accounting for student progress\obj\Debug\Accounting for student progress.exe
+C:\Users\Sergey\Desktop\Accounting for student progress\obj\Debug\Accounting for student progress.pdb
+C:\Users\Sergey\Desktop\Accounting for student progress\obj\Debug\Accounting for student progress.csproj.ResolveComReference.cache
+C:\Users\Asus\Desktop\Accounting for student progress\bin\Debug\Uspevaemost_studentov.mdb
+C:\Users\Asus\Desktop\Accounting for student progress\bin\Debug\Accounting for student progress.exe.config
+C:\Users\Asus\Desktop\Accounting for student progress\bin\Debug\Accounting for student progress.exe
+C:\Users\Asus\Desktop\Accounting for student progress\bin\Debug\Accounting for student progress.pdb
+C:\Users\Asus\Desktop\Accounting for student progress\bin\Debug\MySqlConnector.dll
+C:\Users\Asus\Desktop\Accounting for student progress\bin\Debug\System.Buffers.dll
+C:\Users\Asus\Desktop\Accounting for student progress\bin\Debug\System.Memory.dll
+C:\Users\Asus\Desktop\Accounting for student progress\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Asus\Desktop\Accounting for student progress\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus\Desktop\Accounting for student progress\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\Desktop\Accounting for student progress\bin\Debug\MySqlConnector.xml
+C:\Users\Asus\Desktop\Accounting for student progress\bin\Debug\System.Buffers.xml
+C:\Users\Asus\Desktop\Accounting for student progress\bin\Debug\System.Memory.xml
+C:\Users\Asus\Desktop\Accounting for student progress\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Asus\Desktop\Accounting for student progress\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus\Desktop\Accounting for student progress\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Asus\Desktop\Accounting for student progress\obj\Debug\Accounting for student progress.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Accounting for student progress\obj\Debug\Accounting for student progress.csproj.ResolveComReference.cache
+C:\Users\Asus\Desktop\Accounting for student progress\obj\Debug\Accounting_for_student_progress.AboutBox1.resources
+C:\Users\Asus\Desktop\Accounting for student progress\obj\Debug\Accounting_for_student_progress.fAcademicPerformance.resources
+C:\Users\Asus\Desktop\Accounting for student progress\obj\Debug\Accounting_for_student_progress.fMain.resources
+C:\Users\Asus\Desktop\Accounting for student progress\obj\Debug\Accounting_for_student_progress.fSprDiscipline.resources
+C:\Users\Asus\Desktop\Accounting for student progress\obj\Debug\Accounting_for_student_progress.fSprSpecialty.resources
+C:\Users\Asus\Desktop\Accounting for student progress\obj\Debug\Accounting_for_student_progress.fSprTeacher.resources
+C:\Users\Asus\Desktop\Accounting for student progress\obj\Debug\Accounting_for_student_progress.fStudent.resources
+C:\Users\Asus\Desktop\Accounting for student progress\obj\Debug\Accounting_for_student_progress.fSprStudyGroup.resources
+C:\Users\Asus\Desktop\Accounting for student progress\obj\Debug\Accounting_for_student_progress.Properties.Resources.resources
+C:\Users\Asus\Desktop\Accounting for student progress\obj\Debug\Accounting for student progress.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Accounting for student progress\obj\Debug\Accounting for student progress.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Accounting for student progress\obj\Debug\Accounting for student progress.csproj.CopyComplete
+C:\Users\Asus\Desktop\Accounting for student progress\obj\Debug\Accounting for student progress.exe
+C:\Users\Asus\Desktop\Accounting for student progress\obj\Debug\Accounting for student progress.pdb
+C:\Users\Sergey\Desktop\Диплом\Accounting for student progress\bin\Debug\Uspevaemost_studentov.mdb
+C:\Users\Sergey\Desktop\Диплом\Accounting for student progress\bin\Debug\Accounting for student progress.exe.config
+C:\Users\Sergey\Desktop\Диплом\Accounting for student progress\bin\Debug\Accounting for student progress.exe
+C:\Users\Sergey\Desktop\Диплом\Accounting for student progress\bin\Debug\Accounting for student progress.pdb
+C:\Users\Sergey\Desktop\Диплом\Accounting for student progress\bin\Debug\MySqlConnector.dll
+C:\Users\Sergey\Desktop\Диплом\Accounting for student progress\bin\Debug\System.Buffers.dll
+C:\Users\Sergey\Desktop\Диплом\Accounting for student progress\bin\Debug\System.Memory.dll
+C:\Users\Sergey\Desktop\Диплом\Accounting for student progress\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Sergey\Desktop\Диплом\Accounting for student progress\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sergey\Desktop\Диплом\Accounting for student progress\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sergey\Desktop\Диплом\Accounting for student progress\bin\Debug\MySqlConnector.xml
+C:\Users\Sergey\Desktop\Диплом\Accounting for student progress\bin\Debug\System.Buffers.xml
+C:\Users\Sergey\Desktop\Диплом\Accounting for student progress\bin\Debug\System.Memory.xml
+C:\Users\Sergey\Desktop\Диплом\Accounting for student progress\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Sergey\Desktop\Диплом\Accounting for student progress\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sergey\Desktop\Диплом\Accounting for student progress\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Sergey\Desktop\Диплом\Accounting for student progress\obj\Debug\Accounting for student progress.csprojAssemblyReference.cache
+C:\Users\Sergey\Desktop\Диплом\Accounting for student progress\obj\Debug\Accounting for student progress.csproj.ResolveComReference.cache
+C:\Users\Sergey\Desktop\Диплом\Accounting for student progress\obj\Debug\Accounting_for_student_progress.AboutBox1.resources
+C:\Users\Sergey\Desktop\Диплом\Accounting for student progress\obj\Debug\Accounting_for_student_progress.fAcademicPerformance.resources
+C:\Users\Sergey\Desktop\Диплом\Accounting for student progress\obj\Debug\Accounting_for_student_progress.fMain.resources
+C:\Users\Sergey\Desktop\Диплом\Accounting for student progress\obj\Debug\Accounting_for_student_progress.fSprDiscipline.resources
+C:\Users\Sergey\Desktop\Диплом\Accounting for student progress\obj\Debug\Accounting_for_student_progress.fSprSpecialty.resources
+C:\Users\Sergey\Desktop\Диплом\Accounting for student progress\obj\Debug\Accounting_for_student_progress.fSprTeacher.resources
+C:\Users\Sergey\Desktop\Диплом\Accounting for student progress\obj\Debug\Accounting_for_student_progress.fStudent.resources
+C:\Users\Sergey\Desktop\Диплом\Accounting for student progress\obj\Debug\Accounting_for_student_progress.fSprStudyGroup.resources
+C:\Users\Sergey\Desktop\Диплом\Accounting for student progress\obj\Debug\Accounting_for_student_progress.Properties.Resources.resources
+C:\Users\Sergey\Desktop\Диплом\Accounting for student progress\obj\Debug\Accounting for student progress.csproj.GenerateResource.cache
+C:\Users\Sergey\Desktop\Диплом\Accounting for student progress\obj\Debug\Accounting for student progress.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\Диплом\Accounting for student progress\obj\Debug\Accounting for student progress.csproj.CopyComplete
+C:\Users\Sergey\Desktop\Диплом\Accounting for student progress\obj\Debug\Accounting for student progress.exe
+C:\Users\Sergey\Desktop\Диплом\Accounting for student progress\obj\Debug\Accounting for student progress.pdb
